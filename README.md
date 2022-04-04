@@ -5,10 +5,9 @@
 **About Me:** 
 </br>
 I am a fourth-year Information Technology student who is
-goal-oriented and efficient.</br>I'm highly skilled in handling
-computer related tasks. I am eager to learn on new stuffs</br>
-and also I want to share my knowledge and experiences
-for the progression of the firm.
+goal-oriented and efficient.</br>I am eager to learn on new technology</br>
+and want to share my knowledge and experiences
+for the progression of world.
 
 </br>
 
