@@ -12,6 +12,11 @@ for the progression of the firm.
 
 </br>
 
+- I'm currently working on LMS (Learning Management System) named MathWorld.
+- I'm currently learning Unit testing and developing APIs using python.
+
+</br>
+
 **Skills:**
 - Git
 - [Python](https://github.com/pauljor1499?tab=repositories&q=&type=&language=python&sort=)
@@ -31,22 +36,14 @@ for the progression of the firm.
 - Postman
 - FastAPI
 - Docker
-- Vue
 - Angular
 - Flutter
 - Android Studio
 
 </br>
-</br>
 
-**Hakdog:**
-
+**Reach me at:**
 </br>
-</br>
-</br>
-
-
-Reach me at:
 [LinkedIn](https://www.linkedin.com/in/paul-jor-661108208/) | [Facebook](https://www.facebook.com/pauljor1499/) | [Email](jorpaulvincent@gmail.com)
 
 <!-- - 👋 Hi, I’m @pauljor1499
