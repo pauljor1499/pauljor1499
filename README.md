@@ -12,9 +12,9 @@ for the progression of the firm.
 
 </br>
 
-- I'm intersted in Web Development.
-- I'm currently working on LMS (Learning Management System) named MathWorld.
-- I'm currently learning Unit testing and developing APIs using python.
+✨ I'm intersted in Web Development. </br>
+✨ I'm currently working on LMS (Learning Management System) named MathWorld. </br>
+✨ I'm currently learning Unit testing and developing APIs using python. </br>
 
 </br>
 
