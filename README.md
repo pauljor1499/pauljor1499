@@ -19,6 +19,7 @@ for the progression of the firm.
 </br>
 
 **Internship from [Ebbing Forward LLC](https://www.ebbingforward.com/)**
+</br>
 **Skills Earned:**
 - DevOps
 - Software Development Engineer in Test (SDET)
