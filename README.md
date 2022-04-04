@@ -12,8 +12,17 @@ for the progression of the firm.
 
 </br>
 
+- I'm intersted in Web Development.
 - I'm currently working on LMS (Learning Management System) named MathWorld.
 - I'm currently learning Unit testing and developing APIs using python.
+
+</br>
+
+**Internship from [Ebbing Forward LLC](https://www.ebbingforward.com/)**
+**Skills Earned:**
+- DevOps
+- Software Development Engineer in Test (SDET)
+- Quality Assurance (QA)
 
 </br>
 
@@ -21,24 +30,24 @@ for the progression of the firm.
 - Git
 - [Python](https://github.com/pauljor1499?tab=repositories&q=&type=&language=python&sort=)
 - [Java](https://github.com/pauljor1499?tab=repositories&q=&type=&language=java&sort=)
-- JavaScript
+- [JavaScript](https://github.com/pauljor1499?tab=repositories&q=&type=&language=html&sort=)
 - [Automation](https://github.com/pauljor1499/python-automation)
 - [API Development](https://github.com/pauljor1499/python-fastapi)
 - [Unit testing](https://github.com/pauljor1499/mathworld/tree/master/Tests)
 - API testing
-- Web Development
-- Mobile Development
+- [Web Development](https://github.com/pauljor1499/mathworld)
+- [Mobile Development](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
 
 </br>
 
 **Experience:**
-- Vue
+- [Vue](https://github.com/pauljor1499?tab=repositories&q=&type=&language=vue&sort=)
 - Postman
-- FastAPI
+- [FastAPI](https://github.com/pauljor1499/python-fastapi)
 - Docker
-- Angular
-- Flutter
-- Android Studio
+- [Angular](https://github.com/pauljor1499/Angular-Project)
+- [Flutter](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
+- [Android Studio](https://github.com/pauljor1499/Android-Ecommerce-AR-App)
 
 </br>
 
