@@ -45,6 +45,7 @@ and want to share my knowledge and experiences to make the world better.
 - Postman
 - [FastAPI](https://github.com/pauljor1499/python-fastapi)
 - Docker
+- Gitlab CI/CD
 - [Angular](https://github.com/pauljor1499/Angular-Project)
 - [Flutter](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
 - [Android Studio](https://github.com/pauljor1499/Android-Ecommerce-AR-App)
