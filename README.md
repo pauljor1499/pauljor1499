@@ -32,6 +32,7 @@ for the progression of the firm.
 - [Python](https://github.com/pauljor1499?tab=repositories&q=&type=&language=python&sort=)
 - [Java](https://github.com/pauljor1499?tab=repositories&q=&type=&language=java&sort=)
 - [JavaScript](https://github.com/pauljor1499?tab=repositories&q=&type=&language=html&sort=)
+- [Dart](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
 - [Automation](https://github.com/pauljor1499/python-automation)
 - [API Development](https://github.com/pauljor1499/python-fastapi)
 - [Unit testing](https://github.com/pauljor1499/mathworld/tree/master/Tests)
