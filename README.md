@@ -18,7 +18,7 @@ and want to share my knowledge and experiences to make the world better.
 
 **Internship from [Ebbing Forward LLC](https://www.ebbingforward.com/)**
 </br>
-**Skills Earned:**
+**Position Experienced in:**
 - DevOps
 - Software Development Engineer in Test (SDET)
 - Quality Assurance (QA)
