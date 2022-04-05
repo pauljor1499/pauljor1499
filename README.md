@@ -20,8 +20,8 @@ and want to share my knowledge and experiences to make the world better.
 </br>
 **Position Experienced as:**
 - Basic DevOps
-- Basic Software Development Engineer in Test (SDET)
-- Basic Quality Assurance (QA)
+- Basic Software Development Engineer in Test
+- Basic Quality Assurance Engineer
 
 </br>
 
