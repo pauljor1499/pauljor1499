@@ -28,21 +28,28 @@ and want to share my knowledge and experiences to make the world better.
 
 **Skills:**
 - Git
+- [Test Automation](https://github.com/pauljor1499/python-automation)
+- [API Development](https://github.com/pauljor1499/python-fastapi)
+- [Unit testing](https://github.com/pauljor1499/mathworld/tree/master/Tests)
+- CI/CD
+- API testing
+- [Web Development](https://github.com/pauljor1499/mathworld)
+- [Mobile Development](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
+- MySQL
+
+</br>
+
+**Programming Languages**
 - [Python](https://github.com/pauljor1499?tab=repositories&q=&type=&language=python&sort=)
 - [Java](https://github.com/pauljor1499?tab=repositories&q=&type=&language=java&sort=)
 - [JavaScript](https://github.com/pauljor1499?tab=repositories&q=&type=&language=html&sort=)
 - [Dart](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
-- [Automation](https://github.com/pauljor1499/python-automation)
-- [API Development](https://github.com/pauljor1499/python-fastapi)
-- [Unit testing](https://github.com/pauljor1499/mathworld/tree/master/Tests)
-- API testing
-- [Web Development](https://github.com/pauljor1499/mathworld)
-- [Mobile Development](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
+
 
 </br>
 
 
-**Experience:**
+**Experiences:**
 - [Vue](https://github.com/pauljor1499?tab=repositories&q=&type=&language=vue&sort=)
 - Postman
 - [FastAPI](https://github.com/pauljor1499/python-fastapi)
