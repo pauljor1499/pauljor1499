@@ -5,8 +5,8 @@
 **About Me:** 
 
 </br>
-I am a fourth-year Information Technology student who is
-goal-oriented and efficient.</br>I am eager to learn on new technology
+A fourth-year Information Technology student who is
+goal-oriented and efficient.</br>Eager to learn on new technology
 and want to share my knowledge and experiences to make the world better.
 
 </br>
