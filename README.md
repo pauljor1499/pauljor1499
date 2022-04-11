@@ -22,13 +22,20 @@ and want to share my knowledge and experiences to make the world better.
 **Position Experienced as:**
 - Software Development Engineer in Test
   - Roles:
-    - Des
-    - asdad
-    - asd
-    - 
+    - Design UI/UX and create prototype using Figma
+    - Develop Front-end using Vue
+    - Analyse user requirements
+    - Test and Build applications
+    - Develop and Test APIs
   - Technology used:
-    - asdadad
-    - asdadsadad
+    - Vue
+    - JavaScript
+    - HTML & CSS
+    - Python
+    - Postman
+    - Jira
+    - Slack
+    - Gitlab
 
 </br>
 
