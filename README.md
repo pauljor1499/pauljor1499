@@ -20,9 +20,7 @@ and want to share my knowledge and experiences to make the world better.
 **Internship from [Ebbing Forward LLC](https://www.ebbingforward.com/)**
 </br>
 **Position Experienced as:**
-- Basic DevOps
-- Basic Software Development Engineer in Test
-- Basic Quality Assurance Engineer
+- Software Development Engineer in Test
 
 </br>
 
