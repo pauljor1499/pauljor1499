@@ -38,6 +38,8 @@ and want to share my knowledge and experiences to make the world better.
     - Postman
     - Jira
     - Slack
+    - Docker
+    - NodeJs
     - Gitlab
 
 </br>
