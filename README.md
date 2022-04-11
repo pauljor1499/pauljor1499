@@ -27,6 +27,9 @@ and want to share my knowledge and experiences to make the world better.
     - Analyse user requirements
     - Test and Build applications
     - Develop and Test APIs
+    - Manages Projects using Jira
+    - Create test automation
+    - Create test and build CI/CD using Gitlab
   - Technology used:
     - Vue
     - JavaScript
