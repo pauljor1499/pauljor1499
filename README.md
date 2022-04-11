@@ -21,6 +21,14 @@ and want to share my knowledge and experiences to make the world better.
 </br>
 **Position Experienced as:**
 - Software Development Engineer in Test
+  - Roles:
+    - Des
+    - asdad
+    - asd
+    - 
+  - Technology used:
+    - asdadad
+    - asdadsadad
 
 </br>
 
