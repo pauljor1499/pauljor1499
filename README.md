@@ -5,7 +5,7 @@
 **About Me:** 
 
 </br>
-A fourth-year Information Technology student who is
+Graduate of Information Technology who is
 goal-oriented and efficient.</br>Eager to learn on new technology
 and want to share my knowledge and experiences to make the world better.
 
@@ -30,6 +30,7 @@ and want to share my knowledge and experiences to make the world better.
     - Manages Projects using Jira
     - Create test automation
     - Create test and build CI/CD using Gitlab
+   <br/>
   - Technology used:
     - Vue
     - JavaScript
