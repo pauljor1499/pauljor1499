@@ -30,7 +30,7 @@ and want to share my knowledge and experiences to make the world better.
     - Manages Projects using Jira
     - Create test automation
     - Create test and build CI/CD using Gitlab
-   <br/>
+
   - Technology used:
     - Vue
     - JavaScript
