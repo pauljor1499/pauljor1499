@@ -13,7 +13,7 @@ and want to share my knowledge and experiences to make the world better.
 
 ✨ I'm intersted in Web Development. </br>
 ✨ I'm currently working on LMS (Learning Management System) named MathWorld. </br>
-✨ I'm currently learning Unit testing and developing APIs using python. </br>
+✨ I'm currently learning fullstack development. </br>
 
 </br>
 
