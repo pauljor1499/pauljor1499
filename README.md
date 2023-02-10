@@ -11,9 +11,9 @@ and want to share my knowledge and experiences to make the world better.
 
 </br>
 
-✨ I'm intersted in Web Development. </br>
-✨ I'm currently working on LMS (Learning Management System) named MathWorld. </br>
-✨ I'm currently learning fullstack development. </br>
+✨ Intersted in Web Development. </br>
+✨ Currently working on Learning Management System (LMS). </br>
+✨ Currently learning fullstack development. </br>
 
 </br>
 
