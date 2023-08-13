@@ -82,7 +82,7 @@ and want to share my knowledge and experiences to make the world better.
 
 **Reach me at:**
 </br>
-[LinkedIn](https://www.linkedin.com/in/paul-jor-661108208/) | [Facebook](https://www.facebook.com/pauljor1499/) | [Email](jorpaulvincent@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/paul-jor/) | [Facebook](https://www.facebook.com/pauljor1499/) | [Email](jorpaulvincent@gmail.com)
 
 <!-- - 👋 Hi, I’m @pauljor1499
 - 👀 I’m interested in ...
