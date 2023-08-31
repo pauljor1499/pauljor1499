@@ -17,7 +17,7 @@ and want to share my knowledge and experiences to make the world better.
 
 </br>
 
-**Internship from [Ebbing Forward LLC](https://www.ebbingforward.com/)**
+**Web Developer from [Ebbing Forward LLC](https://www.ebbingforward.com/)**
 </br>
 **Position Experienced as:**
 - Software Design Engineer in Test
