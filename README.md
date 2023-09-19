@@ -17,13 +17,12 @@ and want to share my knowledge and experiences to make the world better.
 
 </br>
 
-##**Web Developer from [Ebbing Forward LLC](https://www.ebbingforward.com/)**
 </br>
 **Position Experienced as:**
 - Software Design Engineer in Test
   - Roles:
     - Design UI/UX and create prototype using Figma
-    - Develop Front-end using Vue
+    - Develop Front-end
     - Analyse user requirements
     - Test and Build applications
     - Develop and Test APIs
