@@ -32,16 +32,16 @@ and want to share my knowledge and experiences to make the world better.
     - Create test and build CI/CD using Gitlab
 
   - Technology used:
-    - Vue
+    - ReactJS
+    - VueJS
     - JavaScript
     - HTML & CSS
     - Python
+    - C#
     - Postman
-    - Jira
-    - Slack
     - Docker
-    - NodeJs
-    - Gitlab
+    - NodeJS
+    - Git
 
 </br>
 
