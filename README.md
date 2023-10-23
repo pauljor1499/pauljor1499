@@ -17,32 +17,6 @@ I hold a Bachelor’s degree in Information Technology and have 3 years of exper
 </br>
 </br>
 
-**Position Experienced as:**
-- Software Design Engineer in Test
-  - Roles:
-    - Design UI/UX and create prototype using Figma
-    - Develop Front-end
-    - Analyse user requirements
-    - Test and Build applications
-    - Develop and Test APIs
-    - Manages Projects using Jira
-    - Create test automation
-    - Create test and build CI/CD using Gitlab
-
-  - Technology used:
-    - ReactJS
-    - VueJS
-    - JavaScript
-    - HTML & CSS
-    - Python
-    - C#
-    - Postman
-    - Docker
-    - NodeJS
-    - Git
-
-</br>
-
 **Skills:**
 - Programming
 - Web development
