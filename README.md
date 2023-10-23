@@ -5,11 +5,15 @@
 **About Me:** 
 </br>
 I hold a Bachelor’s degree in Information Technology and have 3 years of experience in web development. I have a solid understanding of front-end and back-end technologies, including HTML, CSS, JavaScript, and Python. My expertise also extends to modern web frameworks and libraries, such as ReactJS and VueJS. I am skilled in designing responsive and user-friendly websites, ensuring seamless user experiences across various devices and platforms.
+
 </br>
+
 <!--✨ Intersted in Web Development. </br>
 ✨ Currently working on Learning Management System (LMS). </br>
 ✨ Currently learning fullstack development. </br> -->
+
 </br>
+
 **Skills:**
 - Programming
 - Web development
@@ -18,7 +22,9 @@ I hold a Bachelor’s degree in Information Technology and have 3 years of exper
 - UI/UX Design
 - Graphics and design
 - Troubleshooting
+
 </br>
+
 **Primary Tech Stacks:**
 - ReactJS
 - VueJS
@@ -38,7 +44,9 @@ I hold a Bachelor’s degree in Information Technology and have 3 years of exper
 - Selenium
 - Flutter
 - Wordpress
+
 </br>
+
 **Secondary Tech Stacks:**
 - Adobe Photoshop
 - Adobe Illustrator
@@ -50,9 +58,13 @@ I hold a Bachelor’s degree in Information Technology and have 3 years of exper
 - Canva
 - Filmora
 - Slack
+
 </br>
+
 **Reach me at:**
+
 </br>
+
 [LinkedIn](https://www.linkedin.com/in/paul-jor/) | [Facebook](https://www.facebook.com/pauljor1499/) | [Email](jorpaulvincent@gmail.com)
 
 <!-- - 👋 Hi, I’m @pauljor1499
