@@ -5,18 +5,16 @@
 **About Me:** 
 
 </br>
-Graduate of Information Technology who is
-goal-oriented and efficient.</br>Eager to learn on new technology
-and want to share my knowledge and experiences to make the world better.
+I hold a Bachelor’s degree in Information Technology and have 3 years of experience in web development. I have a solid understanding of front-end and back-end technologies, including HTML, CSS, JavaScript, and Python. My expertise also extends to modern web frameworks and libraries, such as ReactJS and VueJS. I am skilled in designing responsive and user-friendly websites, ensuring seamless user experiences across various devices and platforms.
 
 </br>
+</br>
 
-✨ Intersted in Web Development. </br>
+<!--✨ Intersted in Web Development. </br>
 ✨ Currently working on Learning Management System (LMS). </br>
-✨ Currently learning fullstack development. </br>
+✨ Currently learning fullstack development. </br> -->
 
 </br>
-
 </br>
 
 **Position Experienced as:**
@@ -46,37 +44,51 @@ and want to share my knowledge and experiences to make the world better.
 </br>
 
 **Skills:**
+- Programming
+- Web development
+- Database development
+- Unit Test
+- UI/UX Design
+- Graphics and design
+- Troubleshooting
+
+</br>
+</br>
+
+**Primary Tech Stacks:**
+- ReactJS
+- VueJS
 - Git
-- [Test Automation](https://github.com/pauljor1499/python-automation)
-- [API Development](https://github.com/pauljor1499/python-fastapi)
-- [Unit testing](https://github.com/pauljor1499/mathworld/tree/master/Tests)
-- CI/CD
-- API testing
-- [Web Development](https://github.com/pauljor1499/mathworld)
-- [Mobile Development](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
-- MySQL
-
-</br>
-
-**Programming Languages**
-- [Python](https://github.com/pauljor1499?tab=repositories&q=&type=&language=python&sort=)
-- [Java](https://github.com/pauljor1499?tab=repositories&q=&type=&language=java&sort=)
-- [JavaScript](https://github.com/pauljor1499?tab=repositories&q=&type=&language=html&sort=)
-- [Dart](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
-
-
-</br>
-
-
-**Experiences:**
-- [Vue](https://github.com/pauljor1499?tab=repositories&q=&type=&language=vue&sort=)
+- Javasript
+- HTML
+- CSS
+- C#
+- Python
+- Java
+- SQL
+- Bootstrap
+- Figma
+- Adobe XD
 - Postman
-- [FastAPI](https://github.com/pauljor1499/python-fastapi)
-- Docker
-- Gitlab CI/CD
-- [Angular](https://github.com/pauljor1499/Angular-Project)
-- [Flutter](https://github.com/pauljor1499?tab=repositories&q=&type=&language=dart&sort=)
-- [Android Studio](https://github.com/pauljor1499/Android-Ecommerce-AR-App)
+- Playwright
+- Selenium
+- Flutter
+- Wordpress
+
+</br>
+</br>
+
+**Secondary Tech Stacks:**
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premier
+- Microsoft Word
+- Microsoft Excel
+- Microsoft Access
+- Microsoft PowerPoint
+- Canva
+- Filmora
+- Slack
 
 </br>
 
