@@ -4,7 +4,7 @@
 
 **About Me:** 
 </br>
-Graduate in Information Technology and have 2+ years of experience in web development. I have a solid understanding of front-end and back-end technologies, including HTML, CSS, JavaScript, Java and Python. My expertise also extends to modern web frameworks and libraries, such as React, Angular and Vue. Skilled in designing responsive and user-friendly websites, ensuring seamless user experiences across various devices and platforms.
+Graduate in Information Technology and have 3+ years of experience in web development. I have a solid understanding of front-end and back-end technologies, including HTML, CSS, JavaScript, Java, Docker, GitHub Actions, MongoDB and Python. My expertise also extends to modern web frameworks and libraries, such as React, Angular and Vue. Skilled in designing responsive and user-friendly websites, ensuring seamless user experiences across various devices and platforms.
 
 </br>
 
