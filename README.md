@@ -4,7 +4,11 @@
 
 **About Me:** 
 </br>
-Graduate in Information Technology and have 3+ years of experience in web development. I have a solid understanding of front-end and back-end technologies, including HTML, CSS, JavaScript, Java, Docker, GitHub Actions, MongoDB and Python. My expertise also extends to modern web frameworks and libraries, such as React, Angular and Vue. Skilled in designing responsive and user-friendly websites, ensuring seamless user experiences across various devices and platforms.
+A college graduate with a Bachelor of Science in Information Technology, and I’ve been working as a web developer for over 3+ years now. My degree gave me a solid grounding in areas like computer science, software development, and network systems, but most of my growth has come from hands-on experience in the field.
+
+Proficient in both frontend and backend development. I regularly use ReactJS to build dynamic, responsive user interfaces, and I’ve worked extensively with Node.js for server-side programming. On the database side, I’ve worked with MongoDB to manage and structure data, and I’ve used FastAPI along with Uvicorn to deploy scalable, efficient applications.
+
+I’m more focused on converting web designs into fully functional features or pages, turning concepts into reality by ensuring that the design is not only visually appealing but also fully interactive and optimized for user experience. After making these functional pages, I also work on automated testing using Playwright to ensure everything runs smoothly and consistently across different environments. I’m also familiar with React Router for navigation and have experience deploying apps on cloud platforms like DigitalOcean. My goal is always to write clean, efficient code and create full-stack solutions that are both functional and easy to use.
 
 </br>
 
